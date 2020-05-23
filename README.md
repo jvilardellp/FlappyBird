@@ -10,3 +10,10 @@ An implementation of this famous game in Swfit 5.1 for iOS 13.4
 # Author
 
 - Jaume Vilardell
+
+
+# Credits
+
+- fullstackio/FlappySwift (flappy example)
+- jotajotavm: http://goo.gl/ZPioOq (games tutorial)
+- https://patrickdearteaga.com/es/musica-libre-derechos-gratis/ (sound effects and music)
